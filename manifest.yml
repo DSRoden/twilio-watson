@@ -1,0 +1,5 @@
+applications:
+- services:
+  - qa-service
+  name: watson-twilio
+  command: node index.js

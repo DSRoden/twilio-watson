@@ -1,0 +1,16 @@
+{
+  "name": "twilio-watson",
+  "version": "1.0.0",
+  "description": "Watson, Twilio, Surveys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DSRoden",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.4.0",
+    "request": "^2.55.0",
+    "twilio": "^2.1.0"
+  }
+}
